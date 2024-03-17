@@ -42,6 +42,9 @@ public class Tarea3R {
 			System.out.println("Creo que eres más de campo o ciudad...");
 		}
 		System.out.println("FIN");
+
+		System.out.println("Gracias por su atencion");
+		
 	}
 	
 
